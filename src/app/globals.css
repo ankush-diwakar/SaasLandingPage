@@ -39,3 +39,18 @@
     @apply p-10 border border-[#222222]/10 rounded-3xl shadow-[0_7px_14px_#EAEAEA] max-w-xs w-full;
   }
 }
+
+
+::-webkit-scrollbar {
+
+  width: 3px; 
+}
+
+::-webkit-scrollbar-track {
+  background: #A7B6EB;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 30px;
+  background: #0D1BA9;
+}

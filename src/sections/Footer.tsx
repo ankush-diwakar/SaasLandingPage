@@ -22,11 +22,11 @@ export const Footer = () => {
           <a href="#">Careers</a>
         </nav>
         <div className="flex justify-center gap-6 mt-6">
-          <SocialX />
-          <SocialInsta />
-          <SocialLinkedIn />
-          <SocialPin />
-          <SocialYoutube />
+          <a href="https://twitter.com/ankushhh_x07"> <SocialX /></a>
+          <a href="https://www.instagram.com/ankushhh_x07?igsh=cnZvcWkwYTJxMWNn"><SocialInsta /></a>
+          <a href="https://www.linkedin.com/in/ankush-diwakar-024181284/"><SocialLinkedIn /></a>
+          <a href="https://www.linkedin.com/in/ankush-diwakar-024181284/"><SocialPin /></a>
+          <a href="https://www.linkedin.com/in/ankush-diwakar-024181284/"><SocialYoutube /></a>
         </div>
         <p className="mt-6">
           &copy; 2024 Your Company, Inc. All rights reserved.
