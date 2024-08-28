@@ -29,7 +29,7 @@ export const Footer = () => {
           <a href="https://www.linkedin.com/in/ankush-diwakar-024181284/"><SocialYoutube /></a>
         </div>
         <p className="mt-6">
-          &copy; 2024 Your Company, Inc. All rights reserved.
+          &copy; 2024 Your Ankush, Inc. All rights reserved.
         </p>
       </div>
     </footer>
